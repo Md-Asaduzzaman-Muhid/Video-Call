@@ -1,0 +1,25 @@
+{
+  "name": "video-call",
+  "version": "1.0.0",
+  "description": "Video Call Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Md-Asaduzzaman-Muhid/Video-Call.git"
+  },
+  "author": "MD Asaduzzaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Md-Asaduzzaman-Muhid/Video-Call/issues"
+  },
+  "homepage": "https://github.com/Md-Asaduzzaman-Muhid/Video-Call#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  }
+}
